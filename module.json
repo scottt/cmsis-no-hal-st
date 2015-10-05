@@ -1,6 +1,6 @@
 {
   "name": "cmsis-no-hal-st",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CMSIS-CORE _WITHOUT_ any peripheral library or HAL for ST devices",
   "keywords": [
     "HAL",
